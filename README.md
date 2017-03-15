@@ -9,7 +9,9 @@
 - Southern Africa
 - Zoo
 
+To embed an image:
 
+![Image] (/images/github-octocat.png)
 
 Let's learn how to document code with github using the markdown language. 
 
@@ -25,19 +27,6 @@ Here I added a double space.
 ##This is a secondary header
 ###This is a tertiary header
 
-This is how we list items:
-- one
-- two
-- three
-
-And this is how we order items:
-
-1.  one
-2.  two
-3.  three
-
-
-
 In case of several links you can use [some link][1] or [another link][2]
 [1]: https://github.com/ "some link"
 [2]: https://desktop.github.com/ "another link"
@@ -49,10 +38,4 @@ col A | col B
 1 | 2
 3 | 4
 
-To embed an image:
 
-![Image of github's cat](https://rajisubramanian.files.wordpress.com/2014/04/sidhistory.png)
-
-Or save the image in �image� directory within your repo and:
-
-![Image of meerkat](/images/github-octocat.png)
